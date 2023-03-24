@@ -1,2 +1,4 @@
 # prj-2023
-midterm python 
+---------Midterm python-----------
+Group: 7
+Topic: Gym Information Management System 
